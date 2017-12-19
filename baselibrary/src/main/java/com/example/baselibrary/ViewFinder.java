@@ -5,6 +5,7 @@ import android.view.View;
 
 /**
  * Created by kangjiahang on 17/12/18.
+ * view查询的类
  */
 
 public class ViewFinder {
